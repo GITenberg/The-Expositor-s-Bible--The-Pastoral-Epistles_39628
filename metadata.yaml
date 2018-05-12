@@ -1,0 +1,36 @@
+_repo: The-Expositor-s-Bible--The-Pastoral-Epistles_39628
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plummer, Alfred
+    birthdate: 1841
+    deathdate: 1926
+    gutenberg_agent_id: '40122'
+    url: http://www.gutenberg.org/2009/agents/40122
+  editor:
+    agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Wace, Walter E.
+    - Nicoll, William Robertson, Sir
+    - Clear, Claudius
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2012-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Pastoral Epistles -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+title: 'The Expositor''s Bible: The Pastoral Epistles'
+url: http://www.gutenberg.org/ebooks/39628
